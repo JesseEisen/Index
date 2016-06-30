@@ -3,7 +3,7 @@
 }
 
 body {
-  font-family: 'Lato';
+  font-family: 'Lato',Georgia, Cambria, 'Times New Roman', Times, serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
